@@ -1,4 +1,4 @@
-# ebooks
+# freeeBooks
 List of recommended free ebooks
 
 ## Typography
