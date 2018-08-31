@@ -16,3 +16,7 @@ https://flow.ai/
 http://intercoolerjs.org/
 
 http://roughjs.com/
+
+### Static Website
+https://headlesscms.org
+https://www.staticgen.com/
